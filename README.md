@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome
 
-<!--
-**ansonchieng/ansonchieng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Anson. I am a full stack developer and co-founder of Berryjam - the UI components anaylzer for Vue 3 and Nuxt 🙇🏻‍♂️
 
-Here are some ideas to get you started:
+Berryjam helps frontend development teams analyze and visualize VueJs components usage. Our analytics provide visibility and improve accountability of front-end developers. You can simply run a single command to start the analysis and launch Berryjam Dashboard.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github.com/logicspark/berryjam
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/logicspark/berryjam/tree/main/assets/img/berryjam_logo_dark.png">
+    <img alt="Berryjam" src="https://github.com/logicspark/berryjam/tree/main/assets/img/berryjam_logo_light.png">
+  </picture>
+</div>
