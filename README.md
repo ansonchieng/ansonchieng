@@ -7,10 +7,12 @@ Berryjam helps frontend development teams analyze and visualize VueJs components
 https://github.com/logicspark/berryjam
 
 <div>
+  <br/>
   <a href="https://github.com/logicspark/berryjam" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./berryjam_logo_dark.png" width="500">
       <img alt="Berryjam" src="./berryjam_logo_light.png" width="500">
     </picture>
   </a>
+  <br/><br/>
 </div>
