@@ -1,4 +1,4 @@
-### Welcome
+# Welcome
 
 My name is Anson. I am a full stack developer and co-founder of **Berryjam** - the UI components anaylzer for Vue 3 and Nuxt 🙇🏻‍♂️
 
