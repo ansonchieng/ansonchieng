@@ -8,7 +8,7 @@ https://github.com/logicspark/berryjam
 
 <div>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/logicspark/berryjam/tree/main/assets/img/berryjam_logo_dark.png">
-    <img alt="Berryjam" src="https://github.com/logicspark/berryjam/tree/main/assets/img/berryjam_logo_light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./berryjam_logo_dark.png" width="500">
+    <img alt="Berryjam" src="./berryjam_logo_light.png" width="500">
   </picture>
 </div>
