@@ -1,18 +1,13 @@
 # Welcome
 
-My name is Anson. I am a full stack developer and co-founder of **Berryjam** - the UI components anaylzer for Vue 3 and Nuxt 🙇🏻‍♂️
+Hi there! 👋 I’m Anson — a full stack developer and the creator of developer-first tools like:
 
-Berryjam helps frontend development teams analyze and visualize VueJs components usage. Our analytics provide visibility and improve accountability of front-end developers. You can simply run a single command to start the analysis and launch Berryjam Dashboard.
+### 🖼️ React PDF & Vue PDF Viewer
+Powerful, customizable PDF viewers built for modern front-end frameworks.
 
-https://github.com/logicspark/berryjam
+- [**React PDF**]([https://github.com/logicspark/react-pdf](https://github.com/react-pdf-dev/react-pdf-viewer): A React 18/19-ready PDF viewer that works with Next.js 14/15 and supports deep customization, highlight, zoom controls, and more.
+- [**Vue PDF Viewer**]([https://github.com/logicspark/vue-pdf-viewer](https://github.com/vue-pdf-viewer/vue-pdf-viewer): A robust PDF viewer designed for Vue 3 and Nuxt 3, offering feature-rich support including annotations, customization, built-in search and more.
 
-<div>
-  <br/>
-  <a href="https://github.com/logicspark/berryjam" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./berryjam_logo_dark.png" width="500">
-      <img alt="Berryjam" src="./berryjam_logo_light.png" width="500">
-    </picture>
-  </a>
-  <br/><br/>
-</div>
+Both libraries are trusted by developers and companies worldwide, and are actively maintained with full license support and commercial features.
+
+If you're building React or Vue apps and need flexible, embeddable PDF solutions, feel free to explore these projects or reach out!
